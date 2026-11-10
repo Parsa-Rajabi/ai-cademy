@@ -5,7 +5,7 @@ Parsa Rajabi, UBC | AI-cademy 2026
 
 ## Licence and citation
 
-You’re welcome to use, share, and adapt this material for your course. Please credit me and indicate any changes you make. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+You’re welcome to use, share, and adapt this material for your course. Please include the citation below and note any changes you make. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Rajabi, P. (2026). AI Policy as Pedagogy: Co-developing AI course policy with students. AI-cademy 2026, University of British Columbia. [Workshop resource page](https://parsa-rajabi.github.io/ai-cademy/)
 
@@ -102,6 +102,6 @@ After they submit, ask them to look back at what they wrote. “What would you k
 
 ## Licence and citation
 
-You’re welcome to use, share, and adapt this material for your course. Please credit me and indicate any changes you make. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+You’re welcome to use, share, and adapt this material for your course. Please include the citation below and note any changes you make. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Rajabi, P. (2026). AI Policy as Pedagogy: Co-developing AI course policy with students. AI-cademy 2026, University of British Columbia. [Workshop resource page](https://parsa-rajabi.github.io/ai-cademy/)
