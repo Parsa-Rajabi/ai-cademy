@@ -6,6 +6,14 @@ Parsa Rajabi, UBC | AI-cademy 2026
 - [Workshop slides](https://docs.google.com/presentation/d/1DlYS9xmkcGOBZjEglxsfDFX6Nx7E7Ps0JPp1kVb8B8A/present)
 - [Miro board](https://miro.com/app/board/uXjVEQJSf7A=/?share_link_id=119899897790) (tiny.cc/aicademy-miro)
 
+## How to use this
+
+This page is for educators. Take the activity and run it with your own students.
+
+- The Miro board is an example you can take to your students
+- Swap in your own assessment and cards to fit your course
+- Use "Adapt it to your course" to turn the discussion into your AI policy
+
 ## Learning objectives
 
 By the end of this session, you will be able to:
@@ -69,3 +77,9 @@ For one upcoming assignment (revisit after you submit):
 - 🟢 Green: I will use AI for ___ because ___
 - 🟡 Yellow: I will use AI for ___ only if ___
 - 🔴 Red: I will do ___ myself because I want to practise ___
+
+## License
+
+This is open education material under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can use, share, and change it, as long as you credit me.
+
+Cite as: Rajabi, P. (2026). AI Policy as Pedagogy: Co-developing AI course policy with students. AI-cademy 2026, University of British Columbia. https://parsa-rajabi.github.io/ai-cademy/
