@@ -3,83 +3,105 @@
 Co-developing AI course policy with students  
 Parsa Rajabi, UBC | AI-cademy 2026
 
-- [Workshop slides](https://docs.google.com/presentation/d/1DlYS9xmkcGOBZjEglxsfDFX6Nx7E7Ps0JPp1kVb8B8A/present)
-- [Miro board](https://miro.com/app/board/uXjVEQJSf7A=/?share_link_id=119899897790) (tiny.cc/aicademy-miro)
+## Licence and citation
 
-## How to use this
+You’re welcome to use, share, and adapt this material for your course. Please credit me and indicate any changes you make. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-This page is for educators. Take the activity and run it with your own students.
+Rajabi, P. (2026). AI Policy as Pedagogy: Co-developing AI course policy with students. AI-cademy 2026, University of British Columbia. [Workshop resource page](https://parsa-rajabi.github.io/ai-cademy/)
 
-- The Miro board is an example you can take to your students
-- Swap in your own assessment and cards to fit your course
-- Use "Adapt it to your course" to turn the discussion into your AI policy
+<br>
+
+---
+
+## Workshop materials
+
+[Workshop slides](https://docs.google.com/presentation/d/1DlYS9xmkcGOBZjEglxsfDFX6Nx7E7Ps0JPp1kVb8B8A/present) | [Miro board](https://miro.com/app/board/uXjVEQJSf7A=/?share_link_id=119899897790) | [tiny.cc/aicademy-miro](https://tiny.cc/aicademy-miro)
+
+## Bring this activity to your class
+
+Think of a time a student asked you, “Can I use AI for this?” What were they working on, and what did you want them to learn by doing it? That question is a good starting point for a scenario card.
+
+You’re welcome to use our Miro board and adapt any of the four cards we picked for this workshop. I’d encourage you to write a few of your own, too. Your students will have more to say about a scenario when they recognize the assignment and can picture themselves making that decision.
 
 ## Learning objectives
 
-By the end of this session, you will be able to:
+By the end of the workshop, you’ll be able to:
 
-- Explain how an assessment's learning goal affects which AI uses make sense
-- Evaluate AI use scenarios as 🟢 green, 🟡 yellow, or 🔴 red
-- Write a clear condition for yellow AI use
-- Plan how to co-develop an AI policy with your students
+- Explain how an assessment’s learning goal shapes which AI uses make sense.
+- Evaluate an AI use scenario and justify whether it’s 🟢 green, 🟡 yellow, or 🔴 red.
+- Write a yellow condition a student can apply while working on an assignment.
+- Plan how to involve students in developing your course AI policy.
 
-## Run the activity (15 min)
+## Before class, choose your scenarios
 
-- Set the context (2 min)
-  - Name the assessment and learning goal
-  - Explain what's fixed and what students can shape
-  - Model one card: a student tries an assignment for 20 min, then asks AI for a hint
-  - 🟡 Yellow condition: they can explain what they tried and where they got stuck
-- Discuss in pairs or trios (8 min)
-  - Pick a frame on the board, mark it "In use"
-  - Keep one colour per card, delete the others
-    - 🟢 Green: allowed
-    - 🟡 Yellow: allowed with conditions
-    - 🔴 Red: not allowed
-  - Say yellow conditions out loud
-  - Extra cards on the left for early finishers
-  - Paper option: print the cards, circle one colour
-- Compare (5 min)
-  - Start with card 2: which colour, and what did groups think it was assessing?
-  - Ask two groups that disagreed to explain
-  - Write down one condition students can apply
+Pick one upcoming assessment and think about a decision students will face while working on it. To turn that decision into a card, describe what the student has already done and what they want AI to do next. For a follow-up question, change one detail and ask whether it changes their reasoning.
 
-## The four cards
+Here’s what that could look like in two disciplines:
 
-1. Studying
-   - You give AI your own lecture notes. It turns them into flashcards. You try to answer each one before flipping it over.
-2. A graded assignment
-   - You use AI to create part of a graded assignment. You can independently explain, verify, and change everything it produced, but without AI you probably would not have produced that part yourself in the time available.
-3. Writing
-   - You draft an explanation and ask AI to flag where a reader might get lost. You revise it yourself.
-   - Follow-up: Would your decision change if AI rewrote the paragraph?
-4. Presenting
-   - You draw a diagram showing how a campus printer decides whose document prints next. You ask AI to play the audience and ask questions while you practise.
-   - Follow-up: What if AI wrote your speaking notes?
+- Statistics. “I chose a statistical test and ran it myself. Can I ask AI to check my interpretation of the results?” What if you asked AI to choose the test for you?
+- History. “I drafted an argument using two primary sources. Can I ask AI to flag a claim that needs more evidence?” What if you asked AI to write the argument from those same sources?
 
-## Adapt it to your course
+You can put your cards on a copy of the Miro board or print them for an in-person discussion.
 
-- Learning goal: Students will demonstrate ___ by ___
-- Fixed rules: The course requires ___ and prohibits ___ because ___
-- Student input: Where can the class choose between two approaches?
-- 🟡 Yellow condition: On ___, students may use AI to ___ only if ___
-- Disclosure: What should students record, and where?
-- Follow-through
-  - Share a draft and take corrections
-  - Publish the final wording
-  - Give students who missed the activity a way to weigh in
-  - Revisit it mid-term
+## The four cards we picked for the workshop
 
-## Personal AI policy
+1. Studying. You give AI your lecture notes and ask it to turn them into flashcards. You try to answer each question before flipping the card over.
+2. A graded assignment. You use AI to create part of your submission. You can explain, check, and change everything it produced on your own. Given the time you had, though, you probably wouldn’t have produced that part yourself.
+3. Writing. You draft an explanation and ask AI to flag places where a reader might get lost. You revise it yourself. Would you choose the same colour if AI rewrote the paragraph for you?
+4. Presenting. You draw a diagram showing how a campus printer decides whose document to print next. While you practise explaining it, you ask AI to play the audience and ask you questions. Would your answer change if AI wrote your speaking notes?
 
-For one upcoming assignment (revisit after you submit):
+## Run the activity in 15 minutes
 
-- 🟢 Green: I will use AI for ___ because ___
-- 🟡 Yellow: I will use AI for ___ only if ___
-- 🔴 Red: I will do ___ myself because I want to practise ___
+### 1. Set the context (2 min)
 
-## License
+Tell students which assessment you have in mind and what you want them to learn. Be clear about which course requirements are already set and which decisions students can help make.
 
-This is open education material under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can use, share, and change it, as long as you credit me.
+Model one card together. “You’ve spent 20 minutes on an assignment and you’re stuck. Can you ask AI for a hint?” One possible answer is 🟡 yellow. “You can ask for a hint if you can explain what you’ve tried and where you got stuck.”
 
-Cite as: Rajabi, P. (2026). AI Policy as Pedagogy: Co-developing AI course policy with students. AI-cademy 2026, University of British Columbia. https://parsa-rajabi.github.io/ai-cademy/
+### 2. Discuss in pairs or trios (8 min)
+
+Ask each group to pick a frame on the Miro board and mark it In use. For each card, talk through the scenario, keep the colour your group picked, and delete the other two boxes. On paper, circle your choice.
+
+- 🟢 Green means this use is allowed.
+- 🟡 Yellow means this use is allowed under specific conditions.
+- 🔴 Red means this use is not allowed.
+
+If your group picks yellow, say the condition out loud. Would another student know whether they could use AI before they started? On the workshop board, groups that finish early can try the extra cards on the left.
+
+### 3. Compare decisions (5 min)
+
+For the workshop, we picked Card 2 to open the discussion. In your own class, choose a card that groups saw differently. Ask, “Which colour did you pick? What did you think the assignment was assessing?”
+
+Invite two groups to explain their reasoning. Before you move on, write down one condition they proposed and read it back. Ask, “If this were in the assignment instructions, would you know what you could do?”
+
+## Turn the discussion into course policy
+
+Use the assessment and one of the conditions your students proposed to draft a short policy together.
+
+- Learning goal. “On this assignment, you’ll demonstrate ___ by ___.”
+- Fixed rules. What does the course already require or prohibit? Explain why.
+- Student input. Where did students suggest different approaches? Which one will the class use, and why?
+- Yellow condition. “For ___, you may use AI to ___ only if ___.”
+- Disclosure. If students use AI, what should they record, and where should they put it?
+
+Share the draft and ask, “Did I capture what we agreed on? Is there anything you’d still be unsure about when you start the assignment?” Give students who missed the activity a chance to weigh in, then publish the final wording where students will look for it. Revisit it mid-term and ask which parts were clear once they actually used it.
+
+## A personal AI policy for students
+
+Ask students to pick one upcoming assignment and finish these sentences for themselves, keeping the course policy in mind.
+
+- 🟢 I’ll use AI for ___ because ___.
+- 🟡 I’ll use AI for ___ only if ___.
+- 🔴 I’ll do ___ myself because I want to practise ___.
+
+After they submit, ask them to look back at what they wrote. “What would you keep or change for the next assignment, and why?”
+
+<br>
+
+---
+
+## Licence and citation
+
+You’re welcome to use, share, and adapt this material for your course. Please credit me and indicate any changes you make. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Rajabi, P. (2026). AI Policy as Pedagogy: Co-developing AI course policy with students. AI-cademy 2026, University of British Columbia. [Workshop resource page](https://parsa-rajabi.github.io/ai-cademy/)
